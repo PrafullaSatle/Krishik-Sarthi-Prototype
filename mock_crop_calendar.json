@@ -1,0 +1,42 @@
+{
+  "crop": "paddy",
+  "season": "kharif",
+  "monthly_activities": {
+    "june": {
+      "activity": "Land preparation and seed treatment",
+      "details": "Plow the field, apply organic manure. Treat seeds with fungicide.",
+      "fertilizer": "Apply 50kg DAP per acre",
+      "irrigation": "Flood the field 1 week before transplanting"
+    },
+    "july": {
+      "activity": "Transplanting",
+      "details": "Transplant 25-30 day old seedlings. Maintain 15cm spacing.",
+      "fertilizer": "Apply 25kg urea per acre",
+      "irrigation": "Keep 2-3 cm water level"
+    },
+    "august": {
+      "activity": "Weeding and fertilizer application",
+      "details": "Remove weeds manually or use herbicide. Apply nitrogen fertilizer.",
+      "fertilizer": "Apply 25kg urea per acre",
+      "irrigation": "Maintain continuous water level"
+    },
+    "september": {
+      "activity": "Pest monitoring and panicle formation",
+      "details": "Monitor for brown plant hopper and stem borer. Panicle initiation stage.",
+      "fertilizer": "Apply potash if needed",
+      "irrigation": "Reduce water level slightly"
+    },
+    "october": {
+      "activity": "Grain filling and maturation",
+      "details": "Monitor for diseases. Prepare for harvest in late October.",
+      "fertilizer": "No fertilizer needed",
+      "irrigation": "Drain field 2 weeks before harvest"
+    },
+    "november": {
+      "activity": "Harvesting",
+      "details": "Harvest when grains are golden yellow. Dry properly before storage.",
+      "fertilizer": "None",
+      "irrigation": "Field should be dry"
+    }
+  }
+}

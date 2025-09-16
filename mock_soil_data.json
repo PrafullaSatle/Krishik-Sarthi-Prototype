@@ -1,0 +1,15 @@
+{
+  "soil_analysis": {
+    "ph_level": 6.2,
+    "nitrogen": "medium",
+    "phosphorus": "high",
+    "potassium": "low",
+    "moisture": 45,
+    "last_updated": "2025-09-10"
+  },
+  "recommendations": {
+    "fertilizer": "Apply urea fertilizer for nitrogen deficiency. Use potash for potassium boost.",
+    "irrigation": "Current moisture level is good. Water when it drops below 30%.",
+    "ph_adjustment": "Soil pH is optimal for paddy. No lime needed."
+  }
+}

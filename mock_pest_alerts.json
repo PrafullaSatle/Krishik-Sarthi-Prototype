@@ -1,0 +1,48 @@
+{
+  "current_alerts": [
+    {
+      "id": 1,
+      "pest_name": "Sheath Blight",
+      "affected_districts": ["Palakkad", "Thrissur", "Kottayam"],
+      "severity": "high",
+      "month": "september",
+      "symptoms": "Brown lesions on leaf sheaths, white fungal growth",
+      "treatment": "Spray Propiconazole 25% EC @ 0.1% or Tebuconazole 50% + Trifloxystrobin 25% @ 0.4g/L",
+      "prevention": "Maintain proper spacing, avoid excess nitrogen, drain water periodically"
+    },
+    {
+      "id": 2,
+      "pest_name": "Brown Plant Hopper",
+      "affected_districts": ["Alappuzha", "Kottayam", "Thrissur"],
+      "severity": "medium",
+      "month": "september",
+      "symptoms": "Yellowing and drying of plants, hopper burn symptoms",
+      "treatment": "Spray Imidacloprid 17.8% SL @ 0.3ml/L or Thiamethoxam 25% WG @ 0.2g/L",
+      "prevention": "Use resistant varieties, maintain clean field borders"
+    },
+    {
+      "id": 3,
+      "pest_name": "Stem Borer",
+      "affected_districts": ["Palakkad", "Alappuzha"],
+      "severity": "low",
+      "month": "august",
+      "symptoms": "Dead hearts in vegetative stage, white ears in reproductive stage",
+      "treatment": "Release Trichogramma cards @ 5 cards/acre or spray Chlorantraniliprole 18.5% SC @ 0.3ml/L",
+      "prevention": "Remove stubbles after harvest, avoid excessive nitrogen"
+    }
+  ],
+  "market_prices": {
+    "paddy": {
+      "current_price": 22,
+      "currency": "₹/kg",
+      "last_updated": "2025-09-15",
+      "trend": "stable",
+      "districts": {
+        "Palakkad": 22,
+        "Thrissur": 21,
+        "Alappuzha": 23,
+        "Kottayam": 22
+      }
+    }
+  }
+}
